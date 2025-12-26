@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Mizerable",
+  "base_artist": "GACKT",
+  "createdAt": "2025-12-26T05:14:50.119683Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mizerable",
+      "artist": "GACKT",
+      "has_synced": true,
+      "path": "select/01_Mizerable_GACKT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mizérable",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/02_Mizérable_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mizerable",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/03_Mizerable_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mizerable (Live Version)",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/04_Mizerable_(Live_Version)_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mizérable",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/05_Mizérable_Gackt.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mizerable (GACKT Cover)",
+      "artist": "Aoi",
+      "has_synced": false,
+      "path": "select/06_Mizerable_(GACKT_Cover)_Aoi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mizerable",
+      "artist": "Aoi",
+      "has_synced": false,
+      "path": "select/07_Mizerable_Aoi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mizerable (6th Day)",
+      "artist": "Gackt",
+      "has_synced": true,
+      "path": "select/08_Mizerable_(6th_Day)_Gackt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mizerable",
+      "artist": "GACKT",
+      "has_synced": false,
+      "path": "select/pl_01_Mizerable_GACKT.txt"
+    }
+  ]
+}
